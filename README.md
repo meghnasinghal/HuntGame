@@ -1,1 +1,1 @@
-# hunt_iosGame
+# HuntGame_iOS
